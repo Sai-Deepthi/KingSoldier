@@ -53,6 +53,7 @@ function findKingsSoldiers() {
 
 
 /*
+This is my todo list
 1. automatic input typing for each box without using mouse
 2. try to make this code for n digit number
 3. unique input check
