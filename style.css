@@ -1,0 +1,16 @@
+button {
+  margin-top: 20px;  
+  background-color: blue;
+  margin-left: 45px;
+  color: white;
+}
+
+#info {
+   background-color: black;
+   color: white;
+   border-width: 8px;
+   margin-top: 20px;
+   width: 200px;
+   border-color: blue;
+   border: solid;
+}
