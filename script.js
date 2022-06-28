@@ -6,6 +6,7 @@ var info = document.getElementById("info");
 var map = new Map();
 var count = 0;
 
+//This is submit function that get called each time user makes a guess.
 function submit() {
 if(numberEntered) {
     count++;
